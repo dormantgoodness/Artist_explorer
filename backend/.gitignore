@@ -1,0 +1,13 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+
+# environment variables
+.env
+
+# SQlite database files
+*.sqlite
+*.db
+*.sqlite-shm
+*.sqlite-wal
